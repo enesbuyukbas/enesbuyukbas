@@ -7,6 +7,7 @@
 ---
 
 🎓 **2024** – Bilgisayar Mühendisliği, Mehmet Akif Ersoy Üniversitesi 
+</p>
 💻 İlgi alanlarım: `.NET Core`,`NodeJS` `RESTful API`, `Angular`, `Entity Framework`,   `Electron.js`, `MongoDB`  
 📌 Web ve mobil tabanlı uygulamalar geliştiriyorum.  
 🚀 Öğrenmeye meraklı, takım çalışmasına yatkın, yazılıma tutkuyla bağlı bir geliştiriciyim.
