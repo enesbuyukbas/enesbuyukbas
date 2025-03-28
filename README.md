@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba ben Enes! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3AB3FF&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%7C+.NET+Core+%7C+NodeJS+%7C+API;Frontend+%7C+Angular+%7C+ElectronJS;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3AB3FF&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%7C+.NET+Core+%7C+NodeJS;Frontend+%7C+Angular+%7C+ElectronJS;" />
 </p>
 
 ---
