@@ -1,11 +1,11 @@
-<h1 align="center">Merhaba ben Enes! 👋</h1>
+<h1 align="left">Merhaba ben Enes! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3AB3FF&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%7C+.NET+Core+%7C+NodeJS;Frontend+%7C+Angular+%7C+ElectronJS;" />
 </p>
 
 ---
-## 🛠️ Hakkımda
+## 🙋‍♂️ Hakkımda
 
 🎓 **2024** – Bilgisayar Mühendisliği, Mehmet Akif Ersoy Üniversitesi  
 💻 İlgi alanlarım: `.NET Core`, `NodeJS`, `RESTful API`, `Angular`, `Entity Framework`, `Electron.js`, `MongoDB`  
@@ -24,8 +24,8 @@
 ---
 
 
-## 📫 Reach Me
+## 📫 İletişim
 - 📧 Email: enes_bykbss@hotmail.com  
-- 🌐 Linkedin: https://www.linkedin.com/in/enesbuyukbas/ 
-- 📝 Medium: https://medium.com/@enesbuyukbas
+- 💼 Linkedin: https://www.linkedin.com/in/enesbuyukbas/ 
+- ✍️ Medium: https://medium.com/@enesbuyukbas
 
